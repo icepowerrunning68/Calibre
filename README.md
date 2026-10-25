@@ -216,4 +216,4 @@ Calibre is available as a full free version with all features unlocked and updat
 Make the most of your eBook reading experience — download Calibre for free today!
 
 ---
-**Last updated:** 2026-10-24 22:50:28 UTC
+**Last updated:** 2026-10-25 00:45:32 UTC
